@@ -55,13 +55,15 @@ Choose one of the following for your term work:
 - Research project — individual or a team of two
 - Survey report — individual
 
-Topics should be closely aligned with the course (see the schedule). Consult the instructor to scope and refine your choice.
+Topics should be closely aligned with the course (see the [schedule](schedule.html)). Consult the instructor to scope and refine your choice.
 
 ##### Research track
-State a clear problem, motivate why it matters, propose new ideas toward a solution, and demonstrate feasibility via an implementation or simulation. Evaluate against appropriate baselines or related work and discuss limitations.
+- State a clear problem, motivate why it matters, propose new ideas toward a solution, and demonstrate feasibility via an implementation or simulation.
+- Evaluate against appropriate baselines or related work and discuss limitations.
 
 ##### Survey track
-Pick a focused problem area relevant to the course. Write a structured report that motivates the problem, synthesizes and categorizes prior work, compares approaches and trade-offs, and highlights open questions and future directions.
+- Pick a focused problem area relevant to the course. 
+- Write a structured report that motivates the problem, synthesizes and categorizes prior work, compares approaches and trade-offs, and highlights open questions and future directions.
 
 ---
 
