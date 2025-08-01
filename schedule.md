@@ -83,7 +83,7 @@ nav_order: 2
 | Mon 11/24 | System for inference | [vLLM](https://arxiv.org/pdf/2309.06180); [Orca](https://www.usenix.org/conference/osdi22/presentation/yu) |
 |  |  | *Optional:* [Parrot](https://www.usenix.org/system/files/osdi24-lin-chaofan.pdf); [AQUA](https://dl.acm.org/doi/pdf/10.1145/3676641.3715983) |
 | Wed 11/26 | No class | — |
-| Wed 12/01 | System for training | [NCCL](https://arxiv.org/pdf/2507.04786); [DeepSeek‑v3](https://arxiv.org/pdf/2505.09343) |
+| Mon 12/01 | System for training | [NCCL](https://arxiv.org/pdf/2507.04786); [DeepSeek‑v3](https://arxiv.org/pdf/2505.09343) |
 
 ---
 
@@ -91,6 +91,6 @@ nav_order: 2
 
 | Date | Topic | Readings |
 |---|---|---|
-| Mon 12/03 | Student project presentations (TBD) | — |
-| Wed 12/08 | Student project presentations (TBD) | — |
+| Wed 12/03 | Student project presentations (TBD) | — |
+| Mon 12/08 | Student project presentations (TBD) | — |
 
