@@ -18,7 +18,7 @@ nav_order: 1
 Students are expected to read both assigned papers before each class.
 
 - Reading: Read both assigned papers and be prepared to discuss the problem, methodology, results, and takeaways.
-- Write-ups: Submit a short review covering both papers before class (each with less than 2 * 200 words). You may skip up to **five** reviews without penalty.
+- Write-ups: Submit a short review covering both papers before class (each with less than 2 * 200 words). You may skip up to **five** reviews without penalty; this includes absences, illnesses, and career development. In cases where students have special needs, please send an email to the instructor.
 - Format: No strict template. If helpful, use this outline:
   1. Problem: What problem is being solved?
   2. Motivation: Why is it interesting or important?
@@ -26,7 +26,9 @@ Students are expected to read both assigned papers before each class.
   4. Limitations: What assumptions or weaknesses stand out?
   5. Next steps: What follow-up problems or extensions make sense?
 - Presenter exemption: If you present a paper in class, you do not submit the review for that class, and it does not count as a missed review.
-- Academic integrity: The UVA Honor Code applies. Write in your own words; do not copy from papers, peers, or online sources.
+- Academic integrity: The UVA Honor Code applies. Write in your own words; do not copy from papers, peers, or online sources. You are allowed to use GenAI to search the part you don't understand while reading the papers. You are allowed to use GenAI to search for parts you don’t understand while reading the papers.
+
+Please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSdccpzG8f_H7iT0BvW9vAyQ5_Aer6YBLm1_76KFdy4o20pjeQ/viewform?usp=header) to submit the reviews.
 
 ---
 
@@ -47,6 +49,8 @@ Each student (or small team, depending on enrollment) will be assigned one or mo
 - **Slides.** Send slides to the instructor **one week in advance**.  
 - **Discussion.** Be ready to field questions and lead a short discussion after your talk.
 
+Please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSest8_y4vnrzmeV0X0k3y2fjEr1je7LEHIc9XsFtu-XYJIyjg/viewform?usp=header) to submit your presentation slides.
+
 ---
 
 ### Project or Survey
@@ -56,6 +60,7 @@ Choose one of the following for your term work:
 - Survey report — individual
 
 Topics should be closely aligned with the course (see the [schedule](schedule.html)). Consult the instructor to scope and refine your choice.
+You are allowed to use GenAI to polish your survey, but you are not allowed to use it to write one from scratch.
 
 ##### Research track
 - State a clear problem, motivate why it matters, propose new ideas toward a solution, and demonstrate feasibility via an implementation or simulation.
@@ -84,6 +89,8 @@ Topics should be closely aligned with the course (see the [schedule](schedule.ht
 **Deadlines**  
 - Project proposal: TBD
 - Final report: TBD
+
+Please use this [link](https://docs.google.com/forms/d/e/1FAIpQLSew3xRDHaNZ0UQQRrLBbuGyHR2l42L89l2AI16orAGo2h3oug/viewform?usp=header) to submit the report/proposal.
 
 ---
 
