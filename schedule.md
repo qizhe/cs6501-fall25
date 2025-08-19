@@ -41,18 +41,17 @@ permalink: /schedule.html
 | Mon 09/29 | Interconnect I: PCIe | [Understanding PCIe Perf](https://dl.acm.org/doi/10.1145/3230543.3230560); [Routable PCIe](https://www.usenix.org/conference/nsdi24/presentation/hou) |
 |  |  | *Optional:* [Low-latency compatible PCIe](https://dl.acm.org/doi/10.1145/3555050.3569128) |
 | Wed 10/01 | Interconnect II: CXL | [POND](https://dl.acm.org/doi/abs/10.1145/3575693.3578835); [CXL](https://dl.acm.org/doi/abs/10.1145/3613424.3614256) |
-|  |  | *Optional:* [Model CXL](https://arxiv.org/abs/2410.15908); [Cord](https://dl.acm.org/doi/10.1145/3695053.3731074); [TPP](https://dl.acm.org/doi/abs/10.1145/3582016.3582063); [CXL-virtual](https://www.usenix.org/system/files/osdi24-zhong-yuhong.pdf) |
-| Mon 10/06 | Silicon Photonics | [sip-ML](https://dl.acm.org/doi/pdf/10.1145/3452296.3472900); [Lightning](https://people.csail.mit.edu/ghobadi/papers/lightning_sigcomm_2023.pdf) |
+|  |  | *Optional:* [TPP](https://dl.acm.org/doi/abs/10.1145/3582016.3582063); [CXL-virtual](https://www.usenix.org/system/files/osdi24-zhong-yuhong.pdf) |
+| Mon 10/06 | Interconnect III: CXL II | [Model CXL](https://arxiv.org/abs/2410.15908); [Cord](https://dl.acm.org/doi/10.1145/3695053.3731074) |
+| Wed 10/08 | Silicon Photonics | [sip-ML](https://dl.acm.org/doi/pdf/10.1145/3452296.3472900); [Lightning](https://people.csail.mit.edu/ghobadi/papers/lightning_sigcomm_2023.pdf) |
 |  |  | *Optional:* [Server-scale SP connectivity](https://dl.acm.org/doi/pdf/10.1145/3696348.3696856) |
-| Wed 10/08 | Host Network I | [Understanding the Host Network](https://www.cs.cornell.edu/~ragarwal/pubs/understanding-the-host-network.pdf); [Manageable Host](https://sigops.org/s/conferences/hotos/2023/papers/kong.pdf) |
-|  |  | *Optional:* [Hostping](https://www.usenix.org/conference/nsdi23/presentation/liu-kefei); [HostCC](https://dl.acm.org/doi/10.1145/3603269.3604878); [Federated Cache](https://arxiv.org/abs/2504.16324) |
 | Mon 10/13 | No class | — |
 | Wed 10/15 | No class | **Project Proposal Deadline** |
-| Mon 10/20 | Host Network II | [GH](https://dl.acm.org/doi/abs/10.1145/3673038.3673110); [AMD Exascale](https://computermachines.org/joe/publications/pdfs/isca2024_exascale.pdf) |
-| Wed 10/22 | FPGA-based computing/networking | [Faery](https://www.usenix.org/system/files/osdi22-zeng.pdf); [ACCL+](https://www.usenix.org/system/files/osdi24-he.pdf) |
+| Mon 10/20 | Host Network I | [Understanding the Host Network](https://www.cs.cornell.edu/~ragarwal/pubs/understanding-the-host-network.pdf); [Manageable Host](https://sigops.org/s/conferences/hotos/2023/papers/kong.pdf) |
+|  |  | *Optional:* [Hostping](https://www.usenix.org/conference/nsdi23/presentation/liu-kefei); [HostCC](https://dl.acm.org/doi/10.1145/3603269.3604878); [Federated Cache](https://arxiv.org/abs/2504.16324) |
+| Wed 10/22 | Host Network II | [GH](https://dl.acm.org/doi/abs/10.1145/3673038.3673110); [AMD Exascale](https://computermachines.org/joe/publications/pdfs/isca2024_exascale.pdf) |
+| Mon 10/27 | FPGA-based computing/networking | [Faery](https://www.usenix.org/system/files/osdi22-zeng.pdf); [ACCL+](https://www.usenix.org/system/files/osdi24-he.pdf) |
 |  |  | *Optional:* [OS abstraction](https://www.usenix.org/system/files/osdi20-korolija.pdf); [DUA](https://www.usenix.org/conference/nsdi19/presentation/shu) |
-| Mon 10/27 | Memory | [Siloz](https://dl.acm.org/doi/10.1145/3600006.3613143); [STFM](https://ieeexplore.ieee.org/abstract/document/4408252) |
-|  |  | *Optional:* [ROWPRESS](https://dl.acm.org/doi/abs/10.1145/3579371.3589063); [ATLAS](https://ieeexplore.ieee.org/abstract/document/5416658) |
 
 ---
 
