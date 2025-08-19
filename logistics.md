@@ -87,7 +87,7 @@ You are allowed to use GenAI to polish your survey, but you are not allowed to u
    - Survey: introduction and background, structured review of existing work (organized into clear categories), comparative analysis, open problems, and conclusion.
 
 **Deadlines**  
-- Project proposal: TBD
+- Project proposal: 10/15
 - Final report: TBD
 
 Please use this [link](https://docs.google.com/forms/d/e/1FAIpQLSew3xRDHaNZ0UQQRrLBbuGyHR2l42L89l2AI16orAGo2h3oug/viewform?usp=header) to submit the report/proposal.
