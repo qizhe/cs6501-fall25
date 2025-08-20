@@ -26,7 +26,7 @@ Prerequisite: Familiarity with operating systems and networking (e.g., UVA CS 44
 - Dates: 08/26/2025 – 12/09/2025
 - Instructor: [Qizhe Cai](https://www.qizhecai.com)
 - Email: [caiqizhe@virginia.edu](mailto:caiqizhe@virginia.edu)  
-- Office Hours: TBD
+- Office Hours: Monday 2:30 PM - 3:30 PM, Rice 102
 - TA(s): TBD
 - Preferred email / forum: TBD
 
