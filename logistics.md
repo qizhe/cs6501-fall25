@@ -49,7 +49,8 @@ Each student (or small team, depending on enrollment) will be assigned 2-3 paper
 - **Slides.** Send slides to the instructor **one week in advance**.  
 - **Discussion.** Be ready to field questions and lead a short discussion after your talk.
 
-Paper assignment spreadsheet (students sign up themselves (FCFS); the instructor may adjust based on enrollment status): [sheet](https://docs.google.com/spreadsheets/d/1F2Ku5a2DTv0zIY9KrtpDxXaPeRX9XG777NOXSxcIcLA/edit?usp=sharing)
+Paper assignment spreadsheet (students sign up themselves (FCFS); the instructor may adjust based on enrollment status): [sheet](https://docs.google.com/spreadsheets/d/1F2Ku5a2DTv0zIY9KrtpDxXaPeRX9XG777NOXSxcIcLA/edit?usp=sharing).
+
 Please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSest8_y4vnrzmeV0X0k3y2fjEr1je7LEHIc9XsFtu-XYJIyjg/viewform?usp=header) to submit your presentation slides.
 
 ---
