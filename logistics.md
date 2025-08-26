@@ -90,7 +90,7 @@ You are allowed to use GenAI to polish your survey, but you are not allowed to u
 
 **Deadlines**  
 - Project proposal: 10/15
-- Final report: TBD
+- Final report: 12/08
 
 Please use this [link](https://docs.google.com/forms/d/e/1FAIpQLSew3xRDHaNZ0UQQRrLBbuGyHR2l42L89l2AI16orAGo2h3oug/viewform?usp=header) to submit the report/proposal.
 
