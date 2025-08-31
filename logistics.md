@@ -46,7 +46,7 @@ Please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSdccpzG8f_H7iT0B
 Each student (or small team, depending on enrollment) will be assigned 2-3 papers to present.
 
 - **Preparation.** A **25–30 minute** talk covering the problem, design, methods, and results.  
-- **Slides.** Send slides to the instructor **one week in advance**.  
+- **Slides.** Send slides to the instructor **by Friday of the week before your presentation**.  
 - **Discussion.** Be ready to field questions and lead a short discussion after your talk.
 
 Paper assignment spreadsheet: [sheet](https://docs.google.com/spreadsheets/d/1F2Ku5a2DTv0zIY9KrtpDxXaPeRX9XG777NOXSxcIcLA/edit?usp=sharing) Students sign up themselves (FCFS); the instructor may adjust based on enrollment status.
