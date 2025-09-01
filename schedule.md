@@ -9,8 +9,8 @@ permalink: /schedule.html
 
 | Date | Topic | Readings |
 |---|---|---|
-| Wed 08/27 | Introduction: datacenter infra | [slides](Lec1-CourseOverview.pdf) |
-| Mon 09/01 | How to profile your system | [slides](Lec2-HowToProfile.pdf) |
+| Wed 08/27 | Introduction: datacenter infra | [Slides](Lec1-CourseOverview.pdf) |
+| Mon 09/01 | How to profile your system | [Slides](Lec2-HowToProfile.pdf) |
 
 ---
 
