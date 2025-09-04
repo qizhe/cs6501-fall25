@@ -41,8 +41,8 @@ permalink: /schedule.html
 | Mon 09/29 | Interconnect I: PCIe | [Understanding PCIe Perf](https://dl.acm.org/doi/10.1145/3230543.3230560); [Routable PCIe](https://www.usenix.org/conference/nsdi24/presentation/hou) |
 |  |  | *Optional:* [Low-latency compatible PCIe](https://dl.acm.org/doi/10.1145/3555050.3569128) |
 | Wed 10/01 | Interconnect II: CXL | [POND](https://dl.acm.org/doi/abs/10.1145/3575693.3578835); [CXL](https://dl.acm.org/doi/abs/10.1145/3613424.3614256) |
-|  |  | *Optional:* [TPP](https://dl.acm.org/doi/abs/10.1145/3582016.3582063); [CXL-virtual](https://www.usenix.org/system/files/osdi24-zhong-yuhong.pdf) |
-| Mon 10/06 | Interconnect III: CXL II | [Model CXL](https://arxiv.org/abs/2410.15908); [Cord](https://dl.acm.org/doi/10.1145/3695053.3731074) |
+|  |  | *Optional:* [TPP](https://dl.acm.org/doi/abs/10.1145/3582016.3582063); [Model CXL](https://arxiv.org/abs/2410.15908) |
+| Mon 10/06 | Interconnect III: CXL II | [CXL-virtual](https://www.usenix.org/system/files/osdi24-zhong-yuhong.pdf); [Cord](https://dl.acm.org/doi/10.1145/3695053.3731074) |
 | Wed 10/08 | Silicon Photonics | [sip-ML](https://dl.acm.org/doi/pdf/10.1145/3452296.3472900); [Lightning](https://people.csail.mit.edu/ghobadi/papers/lightning_sigcomm_2023.pdf) |
 |  |  | *Optional:* [Server-scale SP connectivity](https://dl.acm.org/doi/pdf/10.1145/3696348.3696856) |
 | Mon 10/13 | No class | — |
