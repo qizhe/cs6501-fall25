@@ -92,4 +92,4 @@ permalink: /schedule.html
 
 | Date | Topic | Readings |
 |---|---|---|
-| Mon 12/08 | Student project presentations (TBD) | — |
+| Mon 12/08 | No class | **Final Report Deadline**|
